@@ -1,8 +1,8 @@
-}
-    "name": "clinica-api",
-    "version": "1.0.0",
-    "private": true,
-    "dependencies": {
+{
+  "name": "clinica-api",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
     "express": "^4.21.2",
     "mysql": "^2.18.1",
     "lodash": "4.17.15",
